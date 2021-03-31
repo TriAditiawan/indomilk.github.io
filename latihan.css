@@ -133,10 +133,7 @@ p {
 #layanankomersil {
   background-image: url(./img/bg_body.png);
 }
-.layanan-img img {
-  width: 80%;
-  margin-left: 15px;
-}
+
 @media (min-width: 992px) {
   #beranda {
     padding-top: 80px;
